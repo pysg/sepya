@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'sepy'
+project = 'Sepy'
 copyright = '2018, pysg'
 author = 'pysg'
 
