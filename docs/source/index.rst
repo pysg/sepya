@@ -6,6 +6,8 @@
 Welcome to sepy's documentation!
 ================================
 
+.. image:: _static/sepy.png
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
