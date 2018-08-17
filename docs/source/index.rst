@@ -12,6 +12,9 @@ Welcome to sepy's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   introduccion_doc.ipynb
+   reverchon_doc.ipynb
+   lack_doc.ipynb
    sovova_doc.ipynb
 
 
