@@ -4,7 +4,7 @@ formats:
    - none
 
 # Pip requirements
-requirements_file: requirements/docs.txt
+requirements_file: docs.txt
 
 # Build Container
 build:
